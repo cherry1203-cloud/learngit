@@ -1,2 +1,3 @@
-this is new file
-this is an sdfdf 
+
+Git is a distributed version control system.
+Git is free software.
